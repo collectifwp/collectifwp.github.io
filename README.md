@@ -1,2 +1,2 @@
-# collectifwp.github.io
+# wpromandie.github.io
 Organization Pages site
